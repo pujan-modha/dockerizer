@@ -7,4 +7,4 @@ const nextConfig = {
   reactStrictMode: true,
 };
 
-module.exports = withBundleAnalyzer(nextConfig);
+module.exports = nextConfig;
